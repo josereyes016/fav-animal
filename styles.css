@@ -1,1 +1,28 @@
-/* add your CSS here */
+img{
+  width: 300px;
+}
+
+span{
+  font-weight: bold;
+}
+
+.interesting{
+  font-style: italic;
+}
+
+ul{
+  list-style: none;
+  padding: 0px;
+}
+
+.card{
+  border: 1px solid black;
+  padding: 15px;
+  width: 300px;
+}
+
+.card-details{
+  border: 1px solid black;
+  padding: 15px;
+  width: 270px;
+}
