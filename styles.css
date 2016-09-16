@@ -1,5 +1,6 @@
 img{
   width: 300px;
+  padding-bottom: 10px;
 }
 
 span{
@@ -17,12 +18,12 @@ ul{
 
 .card{
   border: 1px solid black;
-  padding: 15px;
-  width: 300px;
+  padding: 0px 0px 10px 10px;
+  width: 310px;
 }
 
 .card-details{
   border: 1px solid black;
-  padding: 15px;
-  width: 270px;
+  padding: 10px;
+  width: 280px;
 }
